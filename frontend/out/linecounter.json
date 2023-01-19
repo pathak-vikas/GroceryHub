@@ -1,0 +1,750 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\AshishPrakashBhangal\\Desktop\\Project_Pathak,Vikas\\GroceryHub\\frontend",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-12-04 23:44:01",
+            "filesum": 106,
+            "codesum": 20798,
+            "commentsum": 390,
+            "blanksum": 461,
+            "statistics": {
+                ".js": {
+                    "code": 3422,
+                    "comment": 353,
+                    "blank": 407
+                },
+                ".json": {
+                    "code": 17213,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".css": {
+                    "code": 83,
+                    "comment": 0,
+                    "blank": 14
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 3,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 38,
+                    "comment": 12,
+                    "blank": 32
+                },
+                "": {
+                    "code": 18,
+                    "comment": 1,
+                    "blank": 5
+                },
+                ".html": {
+                    "code": 20,
+                    "comment": 23,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 17135,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "filename": "public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 23,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "filename": "public\\logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public\\robots.txt"
+                },
+                {
+                    "filename": "public\\s.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 32,
+                    "code": 38,
+                    "comment": 12,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 103,
+                    "comment": 0,
+                    "filename": "src\\AdminPanel.js"
+                },
+                {
+                    "blank": 19,
+                    "code": 89,
+                    "comment": 4,
+                    "filename": "src\\Agent\\AddUser.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 97,
+                    "comment": 14,
+                    "filename": "src\\Agent\\CancelOrder.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\Agent\\Manager.css"
+                },
+                {
+                    "blank": 12,
+                    "code": 129,
+                    "comment": 19,
+                    "filename": "src\\Agent\\ModifyOrder.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 102,
+                    "comment": 6,
+                    "filename": "src\\Agent\\PlaceOrder.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 63,
+                    "comment": 0,
+                    "filename": "src\\App.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 240,
+                    "comment": 3,
+                    "filename": "src\\App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\App.test.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 65,
+                    "comment": 18,
+                    "filename": "src\\Banner.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 221,
+                    "comment": 2,
+                    "filename": "src\\Body.js"
+                },
+                {
+                    "blank": 30,
+                    "code": 182,
+                    "comment": 11,
+                    "filename": "src\\Cart.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 169,
+                    "comment": 23,
+                    "filename": "src\\Checkout.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "src\\Footer.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\GoogleMap.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "src\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\logo.svg"
+                },
+                {
+                    "blank": 19,
+                    "code": 101,
+                    "comment": 10,
+                    "filename": "src\\Manager\\AddProduct.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 461,
+                    "comment": 17,
+                    "filename": "src\\Manager\\Inventory.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\Manager\\Manager.css"
+                },
+                {
+                    "blank": 13,
+                    "code": 134,
+                    "comment": 78,
+                    "filename": "src\\Manager\\SalesReport.js"
+                },
+                {
+                    "blank": 34,
+                    "code": 161,
+                    "comment": 11,
+                    "filename": "src\\Manager\\UpdateProducts.js"
+                },
+                {
+                    "filename": "src\\media\\1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons.zip",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\android\\mipmap-hdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\android\\mipmap-mdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\android\\mipmap-xhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\android\\mipmap-xxhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\android\\mipmap-xxxhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\appstore.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\100.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\1024.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\114.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\120.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\128.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\144.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\152.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\16.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\167.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\172.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\180.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\196.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\216.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\256.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\29.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\40.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\48.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\55.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\57.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\58.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\60.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\64.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\72.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\76.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\80.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\87.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\88.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\media\\AppIcons\\Assets.xcassets\\AppIcon.appiconset\\Contents.json"
+                },
+                {
+                    "filename": "src\\media\\AppIcons\\playstore.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\apple.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\fff.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\Ghub.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\LG.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\Logo.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\Logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\Logo2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\pantry.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\payment-methods.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\media\\tgs.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 128,
+                    "comment": 22,
+                    "filename": "src\\MyOrders.js"
+                },
+                {
+                    "blank": 17,
+                    "code": 74,
+                    "comment": 3,
+                    "filename": "src\\Nav.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 34,
+                    "comment": 42,
+                    "filename": "src\\NearMe.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "src\\ProductCard.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 75,
+                    "comment": 7,
+                    "filename": "src\\ProductList.js"
+                },
+                {
+                    "blank": 14,
+                    "code": 80,
+                    "comment": 20,
+                    "filename": "src\\ProductPage.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 62,
+                    "comment": 0,
+                    "filename": "src\\Recommendations.js"
+                },
+                {
+                    "blank": 14,
+                    "code": 100,
+                    "comment": 3,
+                    "filename": "src\\Register.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\reportWebVitals.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 62,
+                    "comment": 0,
+                    "filename": "src\\ReviewPage.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src\\setupTests.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 99,
+                    "comment": 2,
+                    "filename": "src\\SignIn.js"
+                },
+                {
+                    "blank": 34,
+                    "code": 111,
+                    "comment": 14,
+                    "filename": "src\\StoreLocator.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\StoreManager.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 23,
+                    "comment": 5,
+                    "filename": "src\\SubBar.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 15,
+                    "comment": 10,
+                    "filename": "src\\SubBar2.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\tempCodeRunnerFile.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\Trending.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\UnderCons.js"
+                },
+                {
+                    "blank": 29,
+                    "code": 150,
+                    "comment": 2,
+                    "filename": "src\\UserProfile.js"
+                }
+            ]
+        }
+    ]
+}

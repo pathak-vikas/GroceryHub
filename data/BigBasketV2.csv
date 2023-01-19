@@ -1,0 +1,135 @@
+Id,Brand,Product,Quantity,Price,MRP,rebate,stock,Category,image_small
+1,Morison Baby Dreams,Bib - Car Printed,1 pc ,106,125,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40196488_1-morison-baby-dreams-bib-car-printed.jpg
+2,Bella,Cotton Cosmetic Balls,100 pcs Pouch,123,129,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/100283317_6-bella-cotton-cosmetic-balls.jpg
+3,Bodyguard,Premium Baby Wet Wipes With Aloe Vera - Paraben Free,72 Pulls  ,91,125,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40125230_7-bodyguard-premium-baby-wet-wipes-with-aloe-vera-paraben-free.jpg
+4,Bella,Baby Happy Tissues,9 pcs (Pack of 10),142,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40189889_1-bella-baby-happy-tissues.jpg
+5,Vauva,Easy Feeding Bowl With Spoon,1 pc ,132,155,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40131712_1-vauva-easy-feeding-bowl-with-spoon.jpg
+6,Vauva,Baby Water Teether For Cool Gums,1 pc ,128,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40195209_1-vauva-baby-water-teether-for-cool-gums.jpg
+7,Dimpu Poop-Cee,Baby Tumbler - Sippy,180 ml ,123,145,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40132295_1-dimpu-poop-cee-baby-tumbler-sippy.jpg
+8,Vauva,Silicone Feeding Nipple/Teat Regular Neck - Size L,2 pcs ,150,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40195200_1-vauva-silicone-feeding-nippleteat-regular-neck-size-l.jpg
+9,Colgate,"Kid's Toothpaste - 3-5 years, Natural Strawberry Flavour, 0% Artificial",80 g Tube,135,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40179842_2-colgate-kids-toothpaste-3-5-years-natural-strawberry-flavour-0-artificial.jpg
+10,Colgate,"Kid's Toothpaste - 6-9 Years, Natural Strawberry Mint Flavour, 0% Artificial",80 g Tube,135,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40179843_2-colgate-kids-toothpaste-6-9-years-natural-strawberry-mint-flavour-0-artificial.jpg
+11,Mee Mee,Finger Brush With Storage Case - Green,0.02 g ,127,129,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40157004_2-mee-mee-finger-brush-with-storage-case-green.jpg
+12,Himalaya Baby,Baby Soap - Gentle  4X75 Gm,300 g Buy 3 Get 1 Free,120,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40110176_7-himalaya-baby-baby-soap-gentle-4x75-gm.jpg
+13,Johnson's baby,Baby Care Collection - with Organic Cotton Bib,3 pcs ,125,125,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40092184_2-johnsons-baby-baby-care-collection-with-organic-cotton-bib.jpg
+14,Manna ,"Baby Food with Sprouted Grains - Ragi Rich, 6+ Months, Rich in Vitamins & Minerals, No Milk",200 g Carton,129,129,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40001249_3-manna-baby-food-with-sprouted-grains-ragi-rich-6-months-rich-in-vitamins-minerals-no-milk.jpg
+15,Himalaya Baby,Baby Massage Oil,100 ml ,87.2,100,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/20002827_7-himalaya-baby-baby-massage-oil.jpg
+16,Dabur,Baby Shampoo - With No Harmful Chemicals & Tear Free Formula,200 ml  ,105,150,40,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40202321_1-dabur-baby-shampoo-with-no-harmful-chemicals-tear-free-formula.jpg
+17,Himalaya,Baby Hair Oil,100 ml  ,104.25,125,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40193885_1-himalaya-baby-hair-oil.jpg
+18,Johnsons,Baby Cottontouch Newborn Massage Oil,100 ml ,112.5,125,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40200712_2-johnsons-baby-cottontouch-newborn-massage-oil.jpg
+19,BIOTIQUE,Dinsey Baby - Bio Almond Oil Mickey Massage Oil,200 ml ,119.28,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40120540_7-biotique-dinsey-baby-bio-almond-oil-mickey-massage-oil.jpg
+20,Mee Mee,Nourishing Baby Oil With Fruit Extracts,100 ml ,112.49,129,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40157148_1-mee-mee-nourishing-baby-oil-with-fruit-extracts.jpg
+21,Johnson's baby,Baby Cream,100 g ,142.5,145,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/260995_10-johnsons-baby-baby-cream.jpg
+22,Johnson's baby,Baby Milk Lotion,100 ml ,100,100,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/261007_11-johnsons-baby-baby-milk-lotion.jpg
+23,Johnsons,Baby Cottontouch Newborn Lotion,100 ml  ,124.5,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40200710_2-johnsons-baby-cottontouch-newborn-lotion.jpg
+24,BIOTIQUE,Bio Aloe Vera Baby Sun Block SPF 20 UVA/UVB Sunscreen - 6 Months Or Older,50 ml ,122.8,155,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40099579_4-biotique-bio-aloe-vera-baby-sun-block-spf-20-uvauvb-sunscreen-6-months-or-older.jpg
+25,Mamaearth,Deeply Moisturising Baby Lotion,100 ml ,124.25,125,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40192872_2-mamaearth-deeply-moisturising-baby-lotion.jpg
+26,The Moms Co,Natural Baby Soothing Relief Wash + Body Lotion,200 ml + 150 ml ,1018.3,1198,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40179891_4-the-moms-co-natural-baby-soothing-relief-wash-body-lotion.jpg
+27,Johnson's baby,Buds,75 Stems/150 Swabs  ,83,100,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/264003_12-johnsons-baby-buds.jpg
+28,Colgate,"Kid's Toothpaste - 0-2 years, Natural Fruit Flavour, Fluoride Free, 0% Artificial",70 g Tube,104.52,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/40179841_2-colgate-kids-toothpaste-0-2-years-natural-fruit-flavour-fluoride-free-0-artificial.jpg
+29,Nestle ,"Nestum Baby Cereal - Rice, From 6-12 Months, Source of Zinc & Selenium, No Added Preservatives",300 g Bag,150,150,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/240183_5-nestle-nestum-baby-cereal-rice-from-6-12-months-source-of-zinc-selenium-no-added-preservatives.jpg
+30,Johnson's baby,Baby Powder - Blossoms,200 g ,155,155,0,100,baby care,https://www.bigbasket.com/media/uploads/p/l/280947_8-johnsons-baby-baby-powder-blossoms.jpg
+31,Pril,"Dishwash - Kraft, Perfect Active 2x",425 ml Bottle ,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40096523_5-pril-dishwash-kraft-perfect-active-2x.jpg
+32,Hindalco,Freshwrapp - Aluminium Foil,50 g Carton,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/267668_1-hindalco-freshwrapp-aluminium-foil.jpg
+33,Spark,Cloth Clip,12 pcs ,79,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40109731_1-spark-cloth-clip.jpg
+34,Pidilite,Motomax Protectant Spray,100 ml ,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40087837_2-pidilite-motomax-protectant-spray.jpg
+35,Apsara,"Long Point Sharpener - Durable, Easy Grip",20 pcs ,98,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40010703_1-apsara-long-point-sharpener-durable-easy-grip.jpg
+36,Princeware,"Bathing/Cleaning Bucket - Blue, New Frosty",5 L ,69,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40135050_4-princeware-bathingcleaning-bucket-blue-new-frosty.jpg
+37,Super Star,Match Box,1 pc ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40063180_2-super-star-match-box.jpg
+38,Cycle,Agarbathi Lia - Jasmine Incenses Sticks,235 g (151 Sticks) ,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/60000327_3-cycle-agarbathi-lia-jasmine-incenses-sticks.jpg
+39,Mortein,2-In-1 Insect Killer Spray - 100% Kill On Mosquitoes & Cockroaches,250 ml ,95,103,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40134276_5-mortein-2-in-1-insect-killer-spray-100-kill-on-mosquitoes-cockroaches.jpg
+40,Good Morning,Bed Bug Killer Powder,14 g ,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40180819_4-good-morning-bed-bug-killer-powder.jpg
+41,Vim,Dishwash Bar Lemon,135 g  ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/100006809_12-vim-dishwash-bar-lemon.jpg
+42,Surf Excel,Detergent Bar,90 g Pouch ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/100067489_7-surf-excel-detergent-bar.jpg
+43,Tota,Fancy Rangoli Colours - For Floor Decoration,50 g (Pack of 10),100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40228772_1-tota-fancy-rangoli-colours-for-floor-decoration.jpg
+44,Pahal,"Balloon - LED, Polka dot",5 pcs ,80,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40188178_1-pahal-balloon-led-polka-dot.jpg
+45,Scotch brite,Scrub Pad,10 pcs ,85,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40170288_4-scotch-brite-scrub-pad.jpg
+46,Pril,Dishwash Bar,80 g + 45 g ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40038940_4-pril-dishwash-bar.jpg
+47,Pril,Dishwash Bar - Lime,400 g Set of 3,92,102,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/181118_8-pril-dishwash-bar-lime.jpg
+48,Exo,Anti Bacterial - Bacto Scrub,10 gm ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40173020_2-exo-anti-bacterial-bacto-scrub.jpg
+49,Pidilite,"Rangeela Creative Clay - BL PK, Fevi Create",165 g ,98,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40191840_3-pidilite-rangeela-creative-clay-bl-pk-fevi-create.jpg
+50,Camel,Scholar Mathematical Drawing Instruments,9 pcs ,97,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40010746_1-camel-scholar-mathematical-drawing-instruments.jpg
+51,Faber castell,Mathematical - Drawing Set Box,7 instruments ,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40005303_2-faber-castell-mathematical-drawing-set-box.jpg
+52,Home Lite,Matchbox - Big,1 pc  ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40027412_1-home-lite-matchbox-big.jpg
+53,Mangalam,Pure Camphor,50 g Jar ,100,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40185626_3-mangalam-pure-camphor.jpg
+54,Wheel ,Green Detergent Bar,240 g  ,10,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/406588_4-wheel-green-detergent-bar.jpg
+55,Rin,Rin Detergent Bar,140 g ,9.5,10,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40002071_12-rin-rin-detergent-bar.jpg
+56,Princeware,"Bathing/Cleaning Bucket - Mango Yellow, New Frosty",5 L ,69,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40135052_4-princeware-bathingcleaning-bucket-mango-yellow-new-frosty.jpg
+57,Princeware,"Bathing/Cleaning Bucket - Pink, New Frosty",5 L ,69,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40135051_4-princeware-bathingcleaning-bucket-pink-new-frosty.jpg
+58,Classmate,"Gel Pen - Blue, Octane, Colour Burst",10 pcs  ,98,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40125808_4-classmate-gel-pen-blue-octane-colour-burst.jpg
+59,Classmate,Octo Glid - Gel Pen (Blue),Set Of 10 pcs  ,98,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/40005718_7-classmate-octo-glid-gel-pen-blue.jpg
+60,Faber castell,Textliner,5 pcs ,97,100,0,50,cleaning household,https://www.bigbasket.com/media/uploads/p/l/185903_1-faber-castell-textliner.jpg
+61,Appy Fizz,Apple Juice Based Drink,160 ml 0,10,10,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/40185245_1-appy-fizz-apple-juice-based-drink.jpg
+62,Smoodies,"Jhakkas Jamun & Black Salt Smoothie - 100% Natural, No Added Sugar",200 ml ,100,100,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/40142900_3-smoodies-jhakkas-jamun-black-salt-smoothie-100-natural-no-added-sugar.jpg
+63,Again,"Milk Drink - Almonds, Cashews, Dates",2x200 ml Multipack ,60,100,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/1206885_1-again-milk-drink-almonds-cashews-dates.jpg
+64,Again,"Milk Drink - Strawberry, Chocolate, Jaggery",2x200 ml Multipack ,60,100,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/1206886_1-again-milk-drink-strawberry-chocolate-jaggery.jpg
+65,Riseup,"Coffee - Chikamagalur Aroma Ribbon Filter Coffee, Using 100% German Machinery to Roast & Grind",250 g ,100,100,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/40091783_1-riseup-coffee-chikamagalur-aroma-ribbon-filter-coffee-using-100-german-machinery-to-roast-grind.jpg
+66,18 Herbs,Organic Dia Health Tea - Herbal Infusion For Diabetes Support,18.75 g (15 Bags x 1.25 g each),100,100,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/40187672_2-18-herbs-organic-dia-health-tea-herbal-infusion-for-diabetes-support.jpg
+67,Tropicana,"Fruit Juice - Delight, Mango",1 L Tetra ,95,100,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/229794_14-tropicana-fruit-juice-delight-mango.jpg
+68,Maaza,Juice - Mango Refresh,150 ml Carton ,10,10,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/265725_12-maaza-juice-mango-refresh.jpg
+69,Frooti,Drink - Fresh 'N' Juicy Mango,150 ml Tetra ,9.5,10,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/274035_6-frooti-drink-fresh-n-juicy-mango.jpg
+70,Tata ,Gluco+ Lemon,200 ml Closed Cup,10,10,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/40172370_5-tata-gluco-lemon.jpg
+71,Nescafe ,Sunrise Coffee,9 g Pouch ,10,10,0,100,beverages,https://www.bigbasket.com/media/uploads/p/l/40020215_4-nescafe-sunrise-coffee.jpg
+72,Fresho,"Crab - Dotted, Cleaned & Whole Cut",500 g (Gross Weight 800,1059,1380,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40065429_1-fresho-crab-dotted-cleaned-whole-cut.jpg
+73,Fresho,Squid,1 kg ,1299,1690,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40109897_1-fresho-squid.jpg
+74,Fresho,"White Pomfret Small - Whole Cleaned, Preservative Free",500 g (Gross Fish Weight 600,799,1038.7,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40048852_2-fresho-white-pomfret-small-whole-cleaned-preservative-free.jpg
+75,Fresho,"Mutton Goatkid - Shoulder Pieces, Fresh & Tender",1 Kg ,1189,1545,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40227671_1-fresho-mutton-goatkid-shoulder-pieces-fresh-tender.jpg
+76,Fresho,"Mutton Goatkid - Curry Cut, From Whole Carcass, Tender & Juicy",1 Kg ,1059,1380,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40227648_1-fresho-mutton-goatkid-curry-cut-from-whole-carcass-tender-juicy.jpg
+77,Fresho,"Mutton Goatkid - Steak, Fresh & Tender",1 Kg ,1109,1441.7,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40227674_1-fresho-mutton-goatkid-steak-fresh-tender.jpg
+78,Fresho,Mutton - Biryani Pieces,1 Kg  ,899,1170,100,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/10001020_4-fresho-mutton-biryani-pieces.jpg
+79,Danish,Premium Mutton Bhuna Samosa,200 g ,185,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40114988_1-danish-premium-mutton-bhuna-samosa.jpg
+80,Fresho Signature,"Chicken - Breakfast Ham, Sliced",200 g  ,106.8,118.67,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40094893_1-fresho-signature-chicken-breakfast-ham-sliced.jpg
+81,Fresho Signature,"Chicken - Salami with Chilli, Sliced",200 g  ,109.2,121.33,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40094899_1-fresho-signature-chicken-salami-with-chilli-sliced.jpg
+82,Golden Prize,Canned Skipjack Light Meat Tuna - Chunk In Brine,185 g ,185,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40037990_8-golden-prize-canned-skipjack-light-meat-tuna-chunk-in-brine.jpg
+83,Golden Prize,Tuna Salad With Vegetables Mexican Style,185 g ,185,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40153413_5-golden-prize-tuna-salad-with-vegetables-mexican-style.jpg
+84,Ifb,Fresh Catch Prawns - Small,200 g Approx 80 ,165,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40004055_5-ifb-fresh-catch-prawns-small.jpg
+85,Fresho,"Mutton Goatkid - Curry Cut, From Whole Carcass, Tender & Juicy",1 Kg ,1059,1380,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40227648_1-fresho-mutton-goatkid-curry-cut-from-whole-carcass-tender-juicy.jpg
+86,Fresho,"Mutton Goatkid - Steak, Fresh & Tender",1 Kg ,1109,1441.7,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40227674_1-fresho-mutton-goatkid-steak-fresh-tender.jpg
+87,Fresho,"Chicken - Mince, Antibiotic Residue-Free",250 g  ,139,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/10000907_9-fresho-chicken-mince-antibiotic-residue-free.jpg
+88,Fresho,Chicken Wings - Antibiotic Residue-Free,500 g  ,139,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40192505_2-fresho-chicken-wings-antibiotic-residue-free.jpg
+89,Danish,Premium Mutton Mexican Samosa,200 g ,185,185,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40114989_5-danish-premium-mutton-mexican-samosa.jpg
+90,sumeru,Chicken Leg Meat Boneless,400 g Tray,196,196,0,100,eggs meat fish,https://www.bigbasket.com/media/uploads/p/l/40211104_1-sumeru-chicken-leg-meat-boneless.jpg
+91,MAGGI ,Maggi Sauce Hot & Sweet 500g + Nutri Licious Pazzta Cheese Macaroni 70g,Combo 2 Items,138.94,143,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1200518_1-maggi-maggi-sauce-hot-sweet-500g-nutri-licious-pazzta-cheese-macaroni-70g.jpg
+92,Sunfeast,YiPPee Mood Masala Noodles - Family Pack,2x280 g (Multipack) ,101.27,116,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1202657_4-sunfeast-yippee-mood-masala-noodles-family-pack.jpg
+93,Ching'S Secret,Schezwan Instant Noodles,480 g (Pack of 8),85.5,114,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40206236_1-chings-secret-schezwan-instant-noodles.jpg
+94,Veeba,Bhut Jolokia Extra Hot Sauce,300 g Pet Jar,129,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40161671_1-veeba-bhut-jolokia-extra-hot-sauce.jpg
+95,Graminway,Aam Ka Achar,200 g ,129,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40147702_1-graminway-aam-ka-achar.jpg
+96,Nutty Yogi,Zero Oil Mango Pickle,200 g ,119.97,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40112337_2-nutty-yogi-zero-oil-mango-pickle.jpg
+97,Nutty Yogi,Pickle - Sweet Lemon,200 g ,119.97,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40112338_2-nutty-yogi-pickle-sweet-lemon.jpg
+98,Nutty Yogi,Grandma Mango Pickle,200 g ,119.97,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40112335_1-nutty-yogi-grandma-mango-pickle.jpg
+99,GoodDiet,Nutrition Energy Bar - Cocoa Coconut & Almonds,3x40 g Multipack ,129.01,156,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1205655_1-gooddiet-nutrition-energy-bar-cocoa-coconut-almonds.jpg
+100,GoodDiet,Nutrition Energy Bar - Almonds & Raisins,3x40 g Multipack ,129.01,156,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1205652_1-gooddiet-nutrition-energy-bar-almonds-raisins.jpg
+101,GoodDiet,Nutrition Energy Bar - Dates & Walnut,3x40 g Multipack ,129.01,156,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1205661_1-gooddiet-nutrition-energy-bar-dates-walnut.jpg
+102,Blue Bird,Pasta - Elbow Macaroni,500 g Pouch,114,114,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/30006848_2-blue-bird-pasta-elbow-macaroni.jpg
+103,KiddleMe,Tomatino - Tomato Vegetable Wheat Pasta,200 g ,129,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40207049_1-kiddleme-tomatino-tomato-vegetable-wheat-pasta.jpg
+104,Nutralite,"Choco Spread Crunchy Quinoa, Hazelnut Spread, Uses Premium Chocolate",100 g Jar ,129,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40200031_2-nutralite-choco-spread-crunchy-quinoa-hazelnut-spread-uses-premium-chocolate.jpg
+105,Nutralite,"Choco Spread Calcium, Hazelnut Spread, Uses Premium Chocolate",100 g Jar,129,129,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/40200029_2-nutralite-choco-spread-calcium-hazelnut-spread-uses-premium-chocolate.jpg
+106,Cadbury,Celebrations Chocolate Gift Box - Rich Dry Fruit,2x177 g Multipack ,1000,1000,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1208475_5-cadbury-celebrations-chocolate-gift-box-rich-dry-fruit.jpg
+107,Cadbury,Silk Dairy Milk - Silk Miniatures Collection,2x240 g Multipack ,1060,1060,0,100,snacks branded foods,https://www.bigbasket.com/media/uploads/p/l/1208476_8-cadbury-silk-dairy-milk-silk-miniatures-collection.jpg
+108,Nandini,Cooking Butter - Unsalted,2x500 g Multipack ,374.14,440,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/1213687_1-nandini-cooking-butter-unsalted.jpg
+109,Amul,Butter - Pasteurised,200 g Tub,93,102,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/40045943_1-amul-butter-pasteurised.jpg
+110,Milky Mist,Table Butter - Salted,2x500 g Multipack ,477,520,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/1213683_2-milky-mist-table-butter-salted.jpg
+111,Amul,Spread - Choco Butter,200 g Tub,93,93,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/40106416_2-amul-spread-choco-butter.jpg
+112,Epigamia ,Greek Yogurt - Blueberry,8x90 g Multipack,320,320,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/1202000_2-epigamia-greek-yogurt-blueberry.jpg
+113,So Good,"Almond Milk - Natural, Unsweetened",1 L Multipack ,418,550,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/1209231_5-so-good-almond-milk-natural-unsweetened.jpg
+114,Raw Pressery,Almond Milk - Unsweetened,3x1 L Multipack ,657,975,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/1205771_2-raw-pressery-almond-milk-unsweetened.jpg
+115,So Good,Almond Milk - Vanilla,1 L Multipack ,412.77,550,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/1209223_4-so-good-almond-milk-vanilla.jpg
+116,Fresho Signature,Dates & Walnut Muffins,200 g ,249,249,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/40174341_5-fresho-signature-dates-walnut-muffins.jpg
+117,Nandini,Paneer,1 kg Pouch ,320,320,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/270621_6-nandini-paneer.jpg
+118,Nandini,Goodlife - Toned Milk,1 L Carton,52,56,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/100285703_15-nandini-goodlife-toned-milk.jpg
+119,Nandini,Goodlife - Toned Milk,500 ml Pack of 20,520,520,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/244999_1-nandini-goodlife-toned-milk.jpg
+120,Amul,"Pizza Cheese - Mozzarella, Diced",1 kg Pouch,465,465,0,100,bakery cakes dairy,https://www.bigbasket.com/media/uploads/p/l/40126254_3-amul-pizza-cheese-mozzarella-diced.jpg
+121,Fresho,Parwal,500 g ,83,103.75,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/10000366_10-fresho-parwal.jpg
+122,Fresho,Grapes - Red Globe  Indian,500 g ,114,142.5,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/40019777_3-fresho-grapes-red-globe-indian.jpg
+123,Fresho,Marigold Flower - Yellow,250 g ,8,10,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/20001033_9-fresho-marigold-flower-yellow.jpg
+124,Hoovu Fresh,Mango Leaf Thorana,80 cm ,109,109,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/40214547_1-hoovu-fresh-mango-leaf-thorana.jpg
+125,Fresho,Apple - Ambri,500 g ,102,127.5,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/10000393_6-fresho-apple-ambri.jpg
+126,Fresho,Thai Mix,1 pc ,102,127.5,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/30006459_1-fresho-thai-mix.jpg
+127,Fresho,Tamarind - Sweet,225 g ,88,127.5,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/40004344_17-fresho-tamarind-sweet.jpg
+128,Fresho,"Beans - Cluster, Organically Grown",250 g ,8,10,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/50000458_5-fresho-beans-cluster-organically-grown.jpg
+129,Fresho,Onion 1 kg + New Potato 1 kg + Tomato - Hybrid 1 kg,Combo 3 Items,82.7,131.75,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/1203441_1-fresho-onion-1-kg-new-potato-1-kg-tomato-hybrid-1-kg.jpg
+130,Fresho,Drumstick - Organically Grown,100 g ,8,10,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/50000499_6-fresho-drumstick-organically-grown.jpg
+131,Fresho,Pulav Mix,250 g ,112,140,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/30005183_12-fresho-pulav-mix.jpg
+132,Fresho,"Palak - Cleaned, without roots",100 g  ,8,10,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/10000389_12-fresho-palak-cleaned-without-roots.jpg
+133,Fresho,"Methi/Venthaya Keerai - Cleaned, without roots",1 kg  ,102,127.5,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/10000111_20-fresho-methiventhaya-keerai-cleaned-without-roots.jpg
+134,Fresho,"USA Pear, Organically Grown",1 kg ,109,136.25,0,100,fruits vegetables,https://www.bigbasket.com/media/uploads/p/l/40029953_1-fresho-pears-babbugosha-organically-grown.jpg

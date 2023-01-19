@@ -1,0 +1,75 @@
+
+create database groceryhub;
+
+use groceryhub;
+
+CREATE TABLE `cart` (
+  `username` varchar(100) NOT NULL,
+  `productid` int NOT NULL,
+  `product` text,
+  `image_small` text,
+  `Category` text,
+  `Price` double DEFAULT NULL,
+  `MRP` double DEFAULT NULL,
+  `quantity` int DEFAULT NULL,
+  `total` double DEFAULT NULL,
+  PRIMARY KEY (`username`,`productid`)
+);
+
+
+
+
+CREATE TABLE `customerorder` (
+  `orderid` int NOT NULL,
+  `username` varchar(250) NOT NULL,
+  `pid` int NOT NULL,
+  `customername` varchar(250) DEFAULT NULL,
+  `product` text,
+  `quantity` int NOT NULL,
+  `Price` double DEFAULT NULL,
+  `MRP` double DEFAULT NULL,
+  `Category` text,
+  `total` double DEFAULT NULL,
+  `purchasedate` date DEFAULT NULL,
+  `arriveby` date DEFAULT NULL,
+  `actualdeliverydate` date DEFAULT NULL,
+  `status` varchar(45) DEFAULT NULL,
+  `trxstatus` text,
+  `deliveryzip` varchar(45) DEFAULT NULL,
+  `deliverytype` varchar(45) DEFAULT NULL,
+  `rating` int DEFAULT NULL,
+  `payment` varchar(100) DEFAULT NULL,
+  `storename` text,
+  `storeaddr` text,
+  `image_small` text,
+  PRIMARY KEY (`orderid`,`username`,`pid`)
+);
+
+CREATE TABLE `productdetails` (
+  `Id` int NOT NULL,
+  `Brand` text,
+  `Product` text,
+  `Quantity` text,
+  `Price` double DEFAULT NULL,
+  `MRP` double DEFAULT NULL,
+  `rebate` double DEFAULT NULL,
+  `stock` bigint DEFAULT NULL,
+  `Category` text,
+  `image_small` text,
+  PRIMARY KEY (`Id`)
+);
+
+CREATE TABLE `users` (
+  `username` varchar(100) NOT NULL,
+  `password` varchar(45) NOT NULL,
+  `role` varchar(45) NOT NULL,
+  `firstname` varchar(200) DEFAULT NULL,
+  `lastname` varchar(200) DEFAULT NULL,
+  `zipcode` varchar(45) DEFAULT NULL,
+  `city` varchar(45) DEFAULT NULL,
+  `state` varchar(45) DEFAULT NULL,
+  `ad1` text,
+  `ad2` text,
+  `contact` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`username`)
+);
